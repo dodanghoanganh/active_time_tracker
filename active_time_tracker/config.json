@@ -1,0 +1,1 @@
+{"idle_time": 60, "notification_settings": {"reminder_times": ["09:00", "12:00", "18:00"], "inactive_time_limit": 60}, "sync_settings": {"mode": "manual", "auto_sync_time": "23:59"}}
